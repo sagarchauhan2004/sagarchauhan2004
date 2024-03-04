@@ -1,4 +1,5 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+
+<img src="Coder_bg_Img.png">
 <h1 align="center">Hi 👋, I'm SAGAR CHAUHAN</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align = "right" alt = "coding" width = "500" src="https://miro.medium.com/v2/resize:fit:1600/0*C-cPP9D2MIyeexAT.gif">
