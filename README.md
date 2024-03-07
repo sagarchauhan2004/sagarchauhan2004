@@ -1,5 +1,6 @@
 
-<img  src="Coder_bg_img.png">
+<img  src="![Coder_bg_Img](https://github.com/sagarchauhan2004/sagarchauhan2004/assets/151016944/f8e9a1e4-59b4-434c-80f7-d0274655819c)
+">
 <h1 align="center">Hi 👋, I'm SAGAR CHAUHAN</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align = "right" alt = "coding" width = "500" src="https://miro.medium.com/v2/resize:fit:1600/0*C-cPP9D2MIyeexAT.gif">
