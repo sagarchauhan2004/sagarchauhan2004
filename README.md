@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **chauhansagaesingh21@gamil.com**
 
-<h3 text-decoration = "none" align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sagar_chauhan21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sagar_chauhan21" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sagar-singh-chauhan-2a76182a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sagar-singh-chauhan-2a76182a8/" height="30" width="40" /></a>
