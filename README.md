@@ -3,11 +3,7 @@
 <h3 align="center">B.TECH | Proficient in C, C++, Core Java, python , HTML, CSS</h3>
 <img align = "right" alt = "coding" width = "500" src="https://miro.medium.com/v2/resize:fit:1600/0*C-cPP9D2MIyeexAT.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarchauhan2004&label=Profile%20views&color=0e75b6&style=flat" alt="sagarchauhan2004" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarchauhan2004" alt="sagarchauhan2004" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/sagar_chauhan21" target="blank"><img src="https://img.shields.io/twitter/follow/sagar_chauhan21?logo=twitter&style=for-the-badge" alt="sagar_chauhan21" /></a> </p>
 
 - 🔭 I’m currently working on **Data Structure using C++**
 
